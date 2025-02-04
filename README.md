@@ -1,4 +1,4 @@
-# [Project 1: Coffee company data analysis]([https://github.com/SinanEksi/coffee](https://www.msn.com/en-gb/health/other/full-list-of-22-medical-conditions-that-qualify-you-for-518-monthly-dwp-payment/ar-AA1ynCrP?ocid=msedgntp&pc=U531&cvid=9103d687f8ce4c30ac141b74857fc8f5&ei=13))
+# [Project 1: Coffee company data analysis](https://www.msn.com/en-gb/health/other/full-list-of-22-medical-conditions-that-qualify-you-for-518-monthly-dwp-payment/ar-AA1ynCrP?ocid=msedgntp&pc=U531&cvid=9103d687f8ce4c30ac141b74857fc8f5&ei=13)
 
 #### **Project Overview**
 The notebook is focused on analyzing a dataset related to a **coffee company** using Python, with the objective of generating insights to aid **business decision-making**. The analysis includes **sales performance across different quarters, regions, and product segments** to recommend whether certain products should be continued or discontinued.
